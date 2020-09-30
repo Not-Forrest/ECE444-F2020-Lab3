@@ -22,7 +22,7 @@ the 2nd field, click submit. (make a screenshot)
 
 ![task24](/screenshots/Task24.png)
 
-#Activity 3
+# Activity 3
 
 SQL databases store data in tables that have fixed number of columns and variable number of rows.
 Each row has an unique ID called a primary key. Each row can also store foreign keys, which are primary
