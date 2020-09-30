@@ -22,4 +22,15 @@ the 2nd field, click submit. (make a screenshot)
 
 ![task24](/screenshots/Task24.png)
 
+#Activity 3
+
+SQL databases store data in tables that have fixed number of columns and variable number of rows.
+Each row has an unique ID called a primary key. Each row can also store foreign keys, which are primary
+keys for the role in another table. This allows multiple tables to be joined, and allows for updates in 1 
+table to propagate to another.
+
+NoSQL databases do not support the storage of foreign keys. Instead, repeating data will be duplicated 
+instead of linked. This allows for faster querying. Most NoSQL databases do not support joins, 
+so if joins are needed, the functionality must be implemented by whichever application that needs to join data. 
+
 
